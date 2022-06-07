@@ -1,5 +1,4 @@
-Analysing the relationship between inflation and growth rate of BoE n…
-…otes in circulation
+Analysing the relationship between inflation and growth rate of BoE notes in circulation
 
 Data source:
 1. Notes in circulation data
