@@ -8,7 +8,7 @@ library(tidyverse)
 
 #load the dataset
 #replace the string "DATA PATH" with your data path
-dat <- read_excel("DATA PATH/Inflation and Notes in Circulation ODS.xlsx", sheet = 8, skip = 0)
+dat <- read_excel("DATA PATH/data.xlsx", sheet = 5, skip = 0)
 head(dat)
 
 #declare time serious variables
